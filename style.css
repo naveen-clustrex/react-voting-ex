@@ -1,0 +1,28 @@
+h1, p {
+  font-family: Lato;
+}
+
+.Res {
+  background-color: blueviolet;
+  color: white; 
+}
+
+.Vote {
+  background-color: blue;
+  color: white;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.voter-page {
+  background-color: lightskyblue;
+  text-align: center;
+}
+
+.red {
+  color: red;
+  font-size: bold;
+  font-size: 20px;
+}
